@@ -1,10 +1,15 @@
-# DhvaniWave - Privacy Policy
+# DhvaniWave - Legal Documents
 
-Privacy Policy for DhvaniWave Music Visualizer app.
+This repository hosts the legal documents for DhvaniWave Music Visualizer app.
 
-**Live URL:** https://devrajchouhan.github.io/dhvaniwave-privacy/
+## Live URLs
 
-**App:** DhvaniWave  
+- **Privacy Policy:** https://devrajchouhan.github.io/dhvaniwave-privacy/
+- **Terms of Service:** https://devrajchouhan.github.io/dhvaniwave-privacy/terms.html
+
+## About
+
+**App:** DhvaniWave - Music Visualizer  
 **Developer:** Pixel Minds  
 **Contact:** cspixelmindstudios@gmail.com
 
